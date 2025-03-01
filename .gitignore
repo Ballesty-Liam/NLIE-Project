@@ -1,0 +1,9 @@
+
+/.idea
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_0_model.keras
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_0_params.npy
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_0_target_model.keras
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_100_model.keras
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_100_params.npy
+/Agents/CartpoleDQN/pythonProject1/CartpoleDQN/dqn_cartpole_checkpoint_100_target_model.keras
+config.yaml
