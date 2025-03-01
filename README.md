@@ -26,8 +26,8 @@ The system performs **Sentiment Analysis**, **Named Entity Recognition (NER)**, 
 ### Installation
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/nlie-api-text-analysis.git
-cd nlie-api-text-analysis
+git clone https://github.com/yourusername/NLIE-Project.git
+cd NLIE-Project
 
 # Install dependencies
 pip install -r requirements.txt
@@ -87,14 +87,6 @@ output_settings:
 
 ⚠️ **Note:** Do not share or commit your API keys to the repository.
 
-## Usage
-```sh
-python main.py --input text_file.txt
-```
-This will process the text file and output results for sentiment analysis, NER, and text classification.
-
 ## Contributing
 Feel free to fork this repository, submit issues, or make pull requests for improvements.
 
-## License
-MIT License © [Your Name](https://github.com/yourusername)
